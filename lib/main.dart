@@ -17,15 +17,7 @@ class HistoryEntry {
   String imgPath;
   String link;
 
-  HistoryEntry({
-    this.eventId,
-    this.name,
-    this.description,
-    this.year,
-    this.eventType,
-    this.imgPath,
-    this.link 
-  });
+  HistoryEntry({ this.eventId, this.name, this.description, this.year, this.eventType, this.imgPath, this.link });
 
   factory HistoryEntry.toJson(dynamic entry) {
     return HistoryEntry(
@@ -48,6 +40,7 @@ class TimelinePage extends StatefulWidget {
 }
 
 class TimelinePageState extends State<TimelinePage> {
+  
   List<HistoryEntry> historyEntries;
   TextStyle labelStyle = TextStyle(color: Colors.black.withOpacity(0.5), fontSize: 10);
   TextStyle labelStyleBold = TextStyle(fontWeight:FontWeight.bold, color: Colors.black.withOpacity(0.5), fontSize: 10);
@@ -57,16 +50,12 @@ class TimelinePageState extends State<TimelinePage> {
   Future loadHistoryEntries() async {
     String jsonString = await rootBundle.loadString('assets/events.json');
     setState(() {
-      historyEntries = getHistoryEntries(json.decode(jsonString));
+      var data = json.decode(jsonString);
+      historyEntries = List<HistoryEntry>();
+      for(var entry in data) {
+        historyEntries.add(HistoryEntry.toJson(entry));
+      }
     });
-  }
-
-  List<HistoryEntry> getHistoryEntries(List data) {
-    List<HistoryEntry> entries = List<HistoryEntry>();
-    for(var entry in data) {
-      entries.add(HistoryEntry.toJson(entry));
-    }
-    return entries;
   }
 
   void initState() {
@@ -77,11 +66,6 @@ class TimelinePageState extends State<TimelinePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        backgroundColor: lightGrey,
-        title: Text('Days in US History', style:TextStyle(color: Colors.grey)),
-        elevation: 0,
-      ),
       body: Container(
         color: lightGrey,
         child: historyEntries != null ? ListView.builder(
@@ -101,7 +85,7 @@ class TimelinePageState extends State<TimelinePage> {
                     height: 165
                   ),
                   Positioned(
-                    top: 60,
+                    top: 65,
                     child: Stack(
                       children: <Widget>[
                         Container(
@@ -125,13 +109,28 @@ class TimelinePageState extends State<TimelinePage> {
                     top: 30,
                     child: Column(
                       children: <Widget>[
-                      ClipOval(
+                        Stack(
+                          children: <Widget>[
+                            ClipOval(
                               child: Container(
-                                width: 70,
-                                height: 70,
-                                child: Image.asset('assets/' + entry.imgPath + '.jpg', fit:BoxFit.cover, width: 80,),
+                                width: 80,
+                                height: 80,
+                                color: entry.eventType == 'presidency' ? presidencyColor : Colors.grey
                               )
                             ),
+                            Positioned(
+                              top: 5,
+                              left: 5,
+                              child: ClipOval(
+                                child: Container(
+                                  width: 70,
+                                  height: 70,
+                                  child: Image.asset('assets/' + entry.imgPath + '.jpg', fit:BoxFit.cover, width: 80,),
+                                )
+                              ),
+                            )
+                          ],
+                        ),
                         Container(
                           width: 130,
                           margin:EdgeInsets.only(top: 5),
