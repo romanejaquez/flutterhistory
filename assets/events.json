@@ -1,0 +1,75 @@
+[
+    {
+        "eventId": 1,
+        "name": "Declaration of Independence",
+        "description": "US announces separation from Great Britain",
+        "year": "1776-07-04",
+        "eventType": "event",
+        "imgPath": "event1",
+        "link": "http://www.ushistory.org/declaration/document/"
+    },
+    {
+        "eventId": 2,
+        "name": "French Join War against the British",
+        "description": "France Allied with American Colonies",
+        "year": "1778-02-06",
+        "eventType": "event",
+        "imgPath": "event2",
+        "link": "http://www.americaslibrary.gov/jb/revolut/jb_revolut_francoam_1.html"
+    },
+    {
+        "eventId": 3,
+        "name": "Articles of Confederation",
+        "description": "The Continental Congress approves Articles of Confederation",
+        "year": "1781-03-01",
+        "eventType": "event",
+        "imgPath": "event3",
+        "link": "https://en.wikipedia.org/wiki/Articles_of_Confederation"
+    },
+    {
+        "eventId": 4,
+        "name": "Treaty of Paris",
+        "description": "Treaty of Paris of 1783 ended the American Revolutionary War",
+        "year": "1783-09-03",
+        "eventType": "event",
+        "imgPath": "event4",
+        "link": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1783)"
+    },
+    {
+        "eventId": 5,
+        "name": "Constitutional Convention of Philadelphia",
+        "description": "Final Draft of the US Constitution signed",
+        "year": "1787-09-17",
+        "eventType": "event",
+        "imgPath": "event5",
+        "link": "https://www.loc.gov/item/today-in-history/september-17/"
+    },
+    {
+        "eventId": 6,
+        "name": "George Washington",
+        "description": "1st. US President",
+        "year": "1789-04-30",
+        "eventType": "presidency",
+        "imgPath": "us_president_1",
+        "link": "https://en.wikipedia.org/wiki/George_Washington"
+    },
+    {
+        "eventId": 7,
+        "name": "United States Army",
+        "description": "The United States Army is established",
+        "year": "1789-09-29",
+        "eventType": "event",
+        "imgPath": "event7",
+        "link": "https://en.wikipedia.org/wiki/United_States_Army"
+    },
+    {
+        "eventId": 8,
+        "name": "Bill Of Rights",
+        "description": "The Bill of Rights is ratified by 3/4ths of the states",
+        "year": "1791-12-15",
+        "eventType": "event",
+        "imgPath": "event8",
+        "link": "https://billofrightsinstitute.org/founding-documents/bill-of-rights/"
+    }
+
+]
