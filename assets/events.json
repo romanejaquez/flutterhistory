@@ -47,7 +47,7 @@
     {
         "eventId": 6,
         "name": "George Washington",
-        "description": "1st. US President",
+        "description": "Sworn in as 1st. US President",
         "year": "1789-04-30",
         "eventType": "presidency",
         "imgPath": "us_president_1",
@@ -70,6 +70,266 @@
         "eventType": "event",
         "imgPath": "event8",
         "link": "https://billofrightsinstitute.org/founding-documents/bill-of-rights/"
+    },
+    {
+        "eventId": 9,
+        "name": "John Adams",
+        "description": "Sworn in as 2nd. US President",
+        "year": "1797-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_2",
+        "link": "https://en.wikipedia.org/wiki/John_Adams"
+    },
+    {
+        "eventId": 10,
+        "name": "US Marine Corps",
+        "description": "The United States Marine Corps is established",
+        "year": "1798-07-11",
+        "eventType": "event",
+        "imgPath": "event10",
+        "link": "https://www.marines.com/"
+    },
+    {
+        "eventId": 11,
+        "name": "Thomas Jefferson",
+        "description": "Sworn in as 3rd. US President",
+        "year": "1801-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_3",
+        "link": "https://en.wikipedia.org/wiki/Thomas_Jefferson"
+    },
+    {
+        "eventId": 12,
+        "name": "Louisiana Purchase",
+        "description": "The United States acquired Louisiana from France",
+        "year": "1803-04-30",
+        "eventType": "event",
+        "imgPath": "event12",
+        "link": "https://en.wikipedia.org/wiki/Louisiana_Purchase"
+    },
+    {
+        "eventId": 13,
+        "name": "Slave Trade Ended",
+        "description": "The abolition of the African slave trade",
+        "year": "1807-03-03",
+        "eventType": "event",
+        "imgPath": "event13",
+        "link": "http://abolition.nypl.org/home/"
+    },
+    {
+        "eventId": 14,
+        "name": "James Madison",
+        "description": "Sworn in as 4th. US President",
+        "year": "1809-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_4",
+        "link": "https://en.wikipedia.org/wiki/James_Madison"
+    },
+    {
+        "eventId": 15,
+        "name": "War with England",
+        "description": "Fought between US and Great Britain",
+        "year": "1812-06-18",
+        "eventType": "event",
+        "imgPath": "event15",
+        "link": "https://www.britannica.com/event/War-of-1812"
+    },
+    {
+        "eventId": 16,
+        "name": "James Monroe",
+        "description": "Sworn in as 5th. US President",
+        "year": "1817-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_5",
+        "link": "https://en.wikipedia.org/wiki/James_Monroe"
+    },
+    {
+        "eventId": 17,
+        "name": "John Quincy Adams",
+        "description": "Sworn in as 6th. US President",
+        "year": "1825-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_6",
+        "link": "https://en.wikipedia.org/wiki/John_Quincy_Adams"
+    },
+    {
+        "eventId": 18,
+        "name": "Andrew Jackson",
+        "description": "Sworn in as 7th. US President",
+        "year": "1829-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_7",
+        "link": "https://en.wikipedia.org/wiki/Andrew_Jackson"
+    },
+    {
+        "eventId": 19,
+        "name": "Texas Revolution",
+        "description": "A rebellion of colonists from the US and Tejanos",
+        "year": "1835-10-02",
+        "eventType": "event",
+        "imgPath": "event19",
+        "link": "https://en.wikipedia.org/wiki/Texas_Revolution"
+    },
+    {
+        "eventId": 20,
+        "name": "Battle of the Alamo",
+        "description": "Fought between the Republic of Texas and Mexico",
+        "year": "1836-02-23",
+        "eventType": "event",
+        "imgPath": "event20",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_the_Alamo"
+    },
+    {
+        "eventId": 21,
+        "name": "Martin Van Buren",
+        "description": "Sworn in as 8th. US President",
+        "year": "1837-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_8",
+        "link": "https://en.wikipedia.org/wiki/Martin_Van_Buren"
+    },
+    {
+        "eventId": 22,
+        "name": "Trail of Tears",
+        "description": "Forced relocations of Native Americans",
+        "year": "1838-01-01",
+        "eventType": "event",
+        "imgPath": "event22",
+        "link": "https://www.history.com/topics/native-american-history/trail-of-tears"
+    },
+    {
+        "eventId": 23,
+        "name": "Telegraph",
+        "description": "The telegraph invention patent was granted",
+        "year": "1838-07-04",
+        "eventType": "event",
+        "imgPath": "event23",
+        "link": "https://www.loc.gov/collections/samuel-morse-papers/articles-and-essays/invention-of-the-telegraph/"
+    },
+    {
+        "eventId": 24,
+        "name": "Willian Henry Harrison",
+        "description": "Sworn in as 9th. US President",
+        "year": "1841-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_9",
+        "link": "https://en.wikipedia.org/wiki/William_Henry_Harrison"
+    },
+    {
+        "eventId": 25,
+        "name": "John Tyler",
+        "description": "Sworn in as 10th. US President",
+        "year": "1841-04-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_10",
+        "link": "https://en.wikipedia.org/wiki/John_Tyler"
+    },
+    {
+        "eventId": 26,
+        "name": "James K. Polk",
+        "description": "Sworn in as 11th. US President",
+        "year": "1845-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_11",
+        "link": "https://en.wikipedia.org/wiki/James_K._Polk"
+    },
+    {
+        "eventId": 27,
+        "name": "Gold Rush",
+        "description": "Gold was found in Coloma, California",
+        "year": "1848-01-24",
+        "eventType": "event",
+        "imgPath": "event27",
+        "link": "https://en.wikipedia.org/wiki/California_Gold_Rush"
+    },
+    {
+        "eventId": 28,
+        "name": "Zachary Taylor",
+        "description": "Sworn in as 12th. US President",
+        "year": "1849-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_12",
+        "link": "https://en.wikipedia.org/wiki/Zachary_Taylor"
+    },
+    {
+        "eventId": 29,
+        "name": "Millard Fillmore",
+        "description": "Sworn in as 13th. US President",
+        "year": "1850-07-09",
+        "eventType": "presidency",
+        "imgPath": "us_president_13",
+        "link": "https://en.wikipedia.org/wiki/Millard_Fillmore"
+    },
+    {
+        "eventId": 29,
+        "name": "Franklin Pierce",
+        "description": "Sworn in as 14th. US President",
+        "year": "1853-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_14",
+        "link": "https://en.wikipedia.org/wiki/Franklin_Pierce"
+    },
+    {
+        "eventId": 30,
+        "name": "James Buchanan",
+        "description": "Sworn in as 15th. US President",
+        "year": "1857-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_15",
+        "link": "https://en.wikipedia.org/wiki/James_Buchanan"
+    },
+    {
+        "eventId": 31,
+        "name": "Abraham Lincoln",
+        "description": "Sworn in as 16th. US President",
+        "year": "1861-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_16",
+        "link": "https://en.wikipedia.org/wiki/Abraham_Lincoln"
+    },
+    {
+        "eventId": 32,
+        "name": "The Civil War",
+        "description": "Fought in the US between the North and the South",
+        "year": "1861-04-12",
+        "eventType": "event",
+        "imgPath": "event32",
+        "link": "https://en.wikipedia.org/wiki/American_Civil_War"
+    },
+    {
+        "eventId": 33,
+        "name": "Emancipation Proclamation",
+        "description": "Executive order to free all slaves",
+        "year": "1863-01-01",
+        "eventType": "event",
+        "imgPath": "event33",
+        "link": "https://en.wikipedia.org/wiki/Emancipation_Proclamation"
+    },
+    {
+        "eventId": 34,
+        "name": "Andrew Johnson",
+        "description": "Sworn in as 17th. US President",
+        "year": "1865-04-15",
+        "eventType": "presidency",
+        "imgPath": "us_president_17",
+        "link": "https://en.wikipedia.org/wiki/Andrew_Johnson"
+    },
+    {
+        "eventId": 35,
+        "name": "Reconstruction",
+        "description": "The rebuilding of the South after the Civil War",
+        "year": "1865-05-30",
+        "eventType": "event",
+        "imgPath": "event35",
+        "link": "https://www.history.com/topics/american-civil-war/reconstruction"
+    },
+    {
+        "eventId": 36,
+        "name": "Assasination of Lincoln",
+        "description": "President Abraham Lincoln was assasinated",
+        "year": "1865-04-14",
+        "eventType": "event",
+        "imgPath": "event36",
+        "link": "https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln"
     }
-
 ]
