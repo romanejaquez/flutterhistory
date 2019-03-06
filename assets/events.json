@@ -331,5 +331,212 @@
         "eventType": "event",
         "imgPath": "event36",
         "link": "https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln"
+    },
+    {
+        "eventId": 37,
+        "name": "Ulysses S. Grant",
+        "description": "Sworn in as 18th. US President",
+        "year": "1869-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_18",
+        "link": "https://en.wikipedia.org/wiki/Ulysses_S._Grant"
+    },
+    {
+        "eventId": 38,
+        "name": "Civil Rights Act",
+        "description": "To protect all citizens in their civil and legal rights",
+        "year": "1875-03-01",
+        "eventType": "event",
+        "imgPath": "event38",
+        "link": "https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1875"
+    },
+    {
+        "eventId": 39,
+        "name": "Rutherford B. Hayes",
+        "description": "Sworn in as 19th. US President",
+        "year": "1877-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_19",
+        "link": "https://en.wikipedia.org/wiki/Rutherford_B._Hayes"
+    },
+    {
+        "eventId": 40,
+        "name": "James A. Garfield",
+        "description": "Sworn in as 20th. US President",
+        "year": "1881-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_20",
+        "link": "https://en.wikipedia.org/wiki/James_A._Garfield"
+    },
+    {
+        "eventId": 41,
+        "name": "Chester A. Arthur",
+        "description": "Sworn in as 21st. US President",
+        "year": "1881-09-19",
+        "eventType": "presidency",
+        "imgPath": "us_president_21",
+        "link": "https://en.wikipedia.org/wiki/Chester_A._Arthur"
+    },
+    {
+        "eventId": 42,
+        "name": "Grover Cleveland",
+        "description": "Sworn in as 22th. US President",
+        "year": "1885-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_22",
+        "link": "https://en.wikipedia.org/wiki/Grover_Cleveland"
+    },
+    {
+        "eventId": 43,
+        "name": "Benjamin Harrison",
+        "description": "Sworn in as 23th. US President",
+        "year": "1889-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_23",
+        "link": "https://en.wikipedia.org/wiki/Benjamin_Harrison"
+    },
+    {
+        "eventId": 44,
+        "name": "Grover Cleveland",
+        "description": "Sworn in as 24th. US President",
+        "year": "1893-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_24",
+        "link": "https://en.wikipedia.org/wiki/Grover_Cleveland"
+    },
+    {
+        "eventId": 45,
+        "name": "William McKinley",
+        "description": "Sworn in as 25th. US President",
+        "year": "1897-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_25",
+        "link": "https://en.wikipedia.org/wiki/William_McKinley"
+    },
+    {
+        "eventId": 46,
+        "name": "Spanish-American War",
+        "description": "Fought between US and Spain",
+        "year": "1898-04-21",
+        "eventType": "event",
+        "imgPath": "event46",
+        "link": "https://en.wikipedia.org/wiki/Spanish%E2%80%93American_War"
+    },
+    {
+        "eventId": 47,
+        "name": "Spanish-American War End",
+        "description": "Guam, PR and Philipinnes annexed to US",
+        "year": "1899-02-06",
+        "eventType": "event",
+        "imgPath": "event47",
+        "link": "https://www.loc.gov/rr/news/topics/spanishAmWar.html"
+    },
+    {
+        "eventId": 48,
+        "name": "Theodore Roosevelt",
+        "description": "Sworn in as 26th. US President",
+        "year": "1901-09-14",
+        "eventType": "presidency",
+        "imgPath": "us_president_26",
+        "link": "https://en.wikipedia.org/wiki/Theodore_Roosevelt"
+    },
+    {
+        "eventId": 49,
+        "name": "William Howard Taft",
+        "description": "Sworn in as 27th. US President",
+        "year": "1909-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_27",
+        "link": "https://en.wikipedia.org/wiki/William_Howard_Taft"
+    },
+    {
+        "eventId": 50,
+        "name": "Woodrow Wilson",
+        "description": "Sworn in as 28th. US President",
+        "year": "1913-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_28",
+        "link": "https://en.wikipedia.org/wiki/Woodrow_Wilson"
+    },
+    {
+        "eventId": 51,
+        "name": "Word War I",
+        "description": "Global war originating in Europe",
+        "year": "1914-07-28",
+        "eventType": "event",
+        "imgPath": "event51",
+        "link": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+        "eventId": 52,
+        "name": "Panama Canal",
+        "description": "The Panama Canal opens for business",
+        "year": "1914-08-15",
+        "eventType": "event",
+        "imgPath": "event52",
+        "link": "https://en.wikipedia.org/wiki/Panama_Canal"
+    },
+    {
+        "eventId": 53,
+        "name": "Treaty of Versailles",
+        "description": "Treaty is signed, ending WWI",
+        "year": "1919-06-18",
+        "eventType": "event",
+        "imgPath": "event53",
+        "link": "https://en.wikipedia.org/wiki/Treaty_of_Versailles"
+    },
+    {
+        "eventId": 54,
+        "name": "19th Ammendment",
+        "description": "Right to vote on basis of sex",
+        "year": "1920-08-18",
+        "eventType": "event",
+        "imgPath": "event54",
+        "link": "https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution"
+    },
+    {
+        "eventId": 55,
+        "name": "Radio Broadcast",
+        "description": "First radio broadcast in Pittsburg, PA",
+        "year": "1920-11-02",
+        "eventType": "event",
+        "imgPath": "event55",
+        "link": "https://www.britannica.com/topic/KDKA"
+    },
+    {
+        "eventId": 56,
+        "name": "Warren G. harding",
+        "description": "Sworn in as 29th. US President",
+        "year": "1921-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_29",
+        "link": "https://en.wikipedia.org/wiki/Warren_G._Harding"
+    },
+    {
+        "eventId": 57,
+        "name": "Calvin Coolidge",
+        "description": "Sworn in as 30th. US President",
+        "year": "1923-08-02",
+        "eventType": "presidency",
+        "imgPath": "us_president_30",
+        "link": "https://en.wikipedia.org/wiki/Calvin_Coolidge"
+    },
+    {
+        "eventId": 58,
+        "name": "Charles Lindbergh",
+        "description": "First solo transatlantic flight",
+        "year": "1927-05-20",
+        "eventType": "event",
+        "imgPath": "event58",
+        "link": "https://www.biography.com/people/charles-lindbergh-9382609"
+    },
+    {
+        "eventId": 59,
+        "name": "Herbert Hoover",
+        "description": "Sworn in as 31st. US President",
+        "year": "1929-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_31",
+        "link": "https://en.wikipedia.org/wiki/Herbert_Hoover"
     }
 ]
