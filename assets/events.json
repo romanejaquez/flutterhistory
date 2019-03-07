@@ -380,7 +380,7 @@
     {
         "eventId": 42,
         "name": "Grover Cleveland",
-        "description": "Sworn in as 22th. US President",
+        "description": "Sworn in as 22nd. US President",
         "year": "1885-03-04",
         "eventType": "presidency",
         "imgPath": "us_president_22",
@@ -389,7 +389,7 @@
     {
         "eventId": 43,
         "name": "Benjamin Harrison",
-        "description": "Sworn in as 23th. US President",
+        "description": "Sworn in as 23rd. US President",
         "year": "1889-03-04",
         "eventType": "presidency",
         "imgPath": "us_president_23",
@@ -538,5 +538,104 @@
         "eventType": "presidency",
         "imgPath": "us_president_31",
         "link": "https://en.wikipedia.org/wiki/Herbert_Hoover"
+    },
+    {
+        "eventId": 60,
+        "name": "Black Tuesday",
+        "description": "Shares in the NY Stock Exchange collapsed",
+        "year": "1929-10-29",
+        "eventType": "event",
+        "imgPath": "event60",
+        "link": "https://www.thebalance.com/black-tuesday-definition-cause-kickoff-to-depression-3305819"
+    },
+    {
+        "eventId": 61,
+        "name": "Franklin D. Roosevelt",
+        "description": "Sworn in as 32nd. US President",
+        "year": "1933-03-04",
+        "eventType": "presidency",
+        "imgPath": "us_president_32",
+        "link": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
+    },
+    {
+        "eventId": 62,
+        "name": "World War II",
+        "description": "Fought by many of the world's countries",
+        "year": "1939-09-01",
+        "eventType": "event",
+        "imgPath": "event62",
+        "link": "https://www.thebalance.com/black-tuesday-definition-cause-kickoff-to-depression-3305819"
+    },
+    {
+        "eventId": 63,
+        "name": "Pearl Harbor",
+        "description": "Surprise attack to Pearl Harbor by the Japanese",
+        "year": "1941-12-07",
+        "eventType": "event",
+        "imgPath": "event63",
+        "link": "https://www.history.com/topics/world-war-ii/pearl-harbor"
+    },
+    {
+        "eventId": 64,
+        "name": "DDay",
+        "description": "First day of the Invasion of Normandy in WW2",
+        "year": "1944-06-06",
+        "eventType": "event",
+        "imgPath": "event64",
+        "link": "https://en.wikipedia.org/wiki/Normandy_landings"
+    },
+    {
+        "eventId": 65,
+        "name": "Harry S. Truman",
+        "description": "Sworn in as 33rd. US President",
+        "year": "1945-04-12",
+        "eventType": "presidency",
+        "imgPath": "us_president_33",
+        "link": "https://en.wikipedia.org/wiki/Harry_S._Truman"
+    },
+    {
+        "eventId": 66,
+        "name": "1st Atomic Bomb on Hiroshima",
+        "description": "Nuclear weapons detonated over Hiroshima, Japan",
+        "year": "1945-08-06",
+        "eventType": "event",
+        "imgPath": "event66",
+        "link": "https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki"
+    },
+    {
+        "eventId": 67,
+        "name": "Start of the Cold War",
+        "description": "Period of geopolitical tension bet. the USSR and US",
+        "year": "1947-09-01",
+        "eventType": "event",
+        "imgPath": "event67",
+        "link": "https://en.wikipedia.org/wiki/Cold_War"
+    },
+    {
+        "eventId": 68,
+        "name": "Korean War",
+        "description": "War between North and South Korea",
+        "year": "1950-06-25",
+        "eventType": "event",
+        "imgPath": "event68",
+        "link": "https://en.wikipedia.org/wiki/Korean_War"
+    },
+    {
+        "eventId": 69,
+        "name": "Brown v. Board of Education",
+        "description": "Supreme court ruling against school segregation",
+        "year": "1952-12-09",
+        "eventType": "event",
+        "imgPath": "event69",
+        "link": "https://www.history.com/topics/black-history/brown-v-board-of-education-of-topeka"
+    },
+    {
+        "eventId": 70,
+        "name": "Dwight D. Eisenhower",
+        "description": "Sworn in as 34th. US President",
+        "year": "1953-01-20",
+        "eventType": "presidency",
+        "imgPath": "us_president_34",
+        "link": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
     }
 ]
