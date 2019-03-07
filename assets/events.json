@@ -343,7 +343,7 @@
     },
     {
         "eventId": 38,
-        "name": "Civil Rights Act",
+        "name": "Civil Rights Act (1875)",
         "description": "To protect all citizens in their civil and legal rights",
         "year": "1875-03-01",
         "eventType": "event",
@@ -637,5 +637,122 @@
         "eventType": "presidency",
         "imgPath": "us_president_34",
         "link": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
+    },
+    {
+        "eventId": 71,
+        "name": "Vietnam War",
+        "description": "Fought bet. N. Vietnam against S. Vietnam and US",
+        "year": "1955-11-01",
+        "eventType": "event",
+        "imgPath": "event71",
+        "link": "https://en.wikipedia.org/wiki/Vietnam_War"
+    },
+    {
+        "eventId": 72,
+        "name": "Sputnik Satellite",
+        "description": "First artificial Earth satellite",
+        "year": "1957-10-04",
+        "eventType": "event",
+        "imgPath": "event72",
+        "link": "https://en.wikipedia.org/wiki/Sputnik_1"
+    },
+    {
+        "eventId": 73,
+        "name": "NASA formed",
+        "description": "National Aeronautics and Space Administration",
+        "year": "1958-07-29",
+        "eventType": "event",
+        "imgPath": "event73",
+        "link": "https://www.nasa.gov/"
+    },
+    {
+        "eventId": 74,
+        "name": "Civil Rights Act (1950)",
+        "description": "Federal law to end segregation and employment discrimination",
+        "year": "1960-05-06",
+        "eventType": "event",
+        "imgPath": "event74",
+        "link": "https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1960"
+    },
+    {
+        "eventId": 75,
+        "name": "John F. Kennedy",
+        "description": "Sworn in as 35th. US President",
+        "year": "1961-01-20",
+        "eventType": "presidency",
+        "imgPath": "us_president_35",
+        "link": "https://en.wikipedia.org/wiki/John_F._Kennedy"
+    },
+    {
+        "eventId": 76,
+        "name": "Kennedy's Assasination",
+        "description": "In Dallas, Texas, while riding in a presidential motorcade",
+        "year": "1963-11-22",
+        "eventType": "event",
+        "imgPath": "event76",
+        "link": "https://www.history.com/tag/kennedy-assassination"
+    },
+    {
+        "eventId": 77,
+        "name": "Lyndon B. Johnson",
+        "description": "Sworn in as 36th. US President",
+        "year": "1963-11-22",
+        "eventType": "presidency",
+        "imgPath": "us_president_36",
+        "link": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson"
+    },
+    {
+        "eventId": 78,
+        "name": "Richard Nixon",
+        "description": "Sworn in as 37th. US President",
+        "year": "1969-01-20",
+        "eventType": "presidency",
+        "imgPath": "us_president_37",
+        "link": "https://en.wikipedia.org/wiki/Richard_Nixon"
+    },
+    {
+        "eventId": 79,
+        "name": "Apollo 11",
+        "description": "The spaceflight that landed the first two people on the Moon",
+        "year": "1969-07-20",
+        "eventType": "event",
+        "imgPath": "event79",
+        "link": "https://en.wikipedia.org/wiki/Apollo_11"
+    },
+    {
+        "eventId": 80,
+        "name": "Watergate",
+        "description": "Major political scandal during Nixon's presidency",
+        "year": "1972-06-17",
+        "eventType": "event",
+        "imgPath": "event80",
+        "link": "https://en.wikipedia.org/wiki/Watergate_scandal"
+    },
+    {
+        "eventId": 81,
+        "name": "Gerald Ford",
+        "description": "Sworn in as 38th. US President",
+        "year": "1974-08-09",
+        "eventType": "presidency",
+        "imgPath": "us_president_38",
+        "link": "https://en.wikipedia.org/wiki/Gerald_Ford"
+    },
+    {
+        "eventId": 82,
+        "name": "Jimmy Carter",
+        "description": "Sworn in as 39th. US President",
+        "year": "1977-01-20",
+        "eventType": "presidency",
+        "imgPath": "us_president_39",
+        "link": "https://en.wikipedia.org/wiki/Jimmy_Carter"
+    },
+    {
+        "eventId": 83,
+        "name": "Human Rights",
+        "description": "Against harassment and human rights violations",
+        "year": "1977-03-17",
+        "eventType": "event",
+        "imgPath": "event83",
+        "link": "https://history.state.gov/milestones/1977-1980/human-rights"
     }
 ]
