@@ -754,5 +754,95 @@
         "eventType": "event",
         "imgPath": "event83",
         "link": "https://history.state.gov/milestones/1977-1980/human-rights"
+    },
+    {
+        "eventId": 84,
+        "name": "Ronald Reagan",
+        "description": "Sworn in as 40th. US President",
+        "year": "1981-01-20",
+        "eventType": "presidency",
+        "imgPath": "us_president_40",
+        "link": "https://en.wikipedia.org/wiki/Ronald_Reagan"
+    },
+    {
+        "eventId": 85,
+        "name": "The Berlin Wall",
+        "description": "The Fall of the Berlin Wall",
+        "year": "1989-11-09",
+        "eventType": "event",
+        "imgPath": "event85",
+        "link": "https://www.history.com/topics/cold-war/berlin-wall"
+    },
+    {
+        "eventId": 86,
+        "name": "George H. W. Bush",
+        "description": "Sworn in as 41st. US President",
+        "year": "1989-01-20",
+        "eventType": "presidency",
+        "imgPath": "us_president_41",
+        "link": "https://en.wikipedia.org/wiki/George_H._W._Bush"
+    },
+    {
+        "eventId": 87,
+        "name": "Gulf War (Operation Dessert Storm)",
+        "description": "Waged by coallition forces led by US against Iraq",
+        "year": "1991-01-17",
+        "eventType": "event",
+        "imgPath": "event87",
+        "link": "https://en.wikipedia.org/wiki/Gulf_War"
+    },
+    {
+        "eventId": 88,
+        "name": "Bill Clinton",
+        "description": "Sworn in as 42nd. US President",
+        "year": "1993-01-20",
+        "eventType": "presidency",
+        "imgPath": "us_president_42",
+        "link": "https://en.wikipedia.org/wiki/Bill_Clinton"
+    },
+    {
+        "eventId": 89,
+        "name": "George W. Bush",
+        "description": "Sworn in as 43rd. US President",
+        "year": "2001-01-20",
+        "eventType": "presidency",
+        "imgPath": "us_president_43",
+        "link": "https://en.wikipedia.org/wiki/George_W._Bush"
+    },
+    {
+        "eventId": 90,
+        "name": "September 11",
+        "description": "Worst terrorist attack on US soil to this date.",
+        "year": "2001-09-11",
+        "eventType": "event",
+        "imgPath": "event90",
+        "link": "https://en.wikipedia.org/wiki/September_11_attacks"
+    },
+    {
+        "eventId": 91,
+        "name": "Barack Obama",
+        "description": "Sworn in as 44th. US President",
+        "year": "2009-01-20",
+        "eventType": "presidency",
+        "imgPath": "us_president_44",
+        "link": "https://en.wikipedia.org/wiki/Barack_Obama"
+    },
+    {
+        "eventId": 92,
+        "name": "Donald Trump",
+        "description": "Sworn in as 45th. US President",
+        "year": "2017-01-20",
+        "eventType": "presidency",
+        "imgPath": "us_president_45",
+        "link": "https://en.wikipedia.org/wiki/Donald_Trump"
+    },
+    {
+        "eventId": 93,
+        "name": "YOU",
+        "description": "Now it's up to YOU to write history",
+        "year": "2019-12-31",
+        "eventType": "event",
+        "imgPath": "event93",
+        "link": "https://en.wikipedia.org/wiki/September_11_attacks"
     }
 ]
